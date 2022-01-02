@@ -1,1 +1,1 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AmeyaDGit&theme=radical)]
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AmeyaDGit&theme=tokyonight)]
